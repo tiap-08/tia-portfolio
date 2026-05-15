@@ -473,3 +473,18 @@ section{
         font-size:4.5rem;
     }
 }
+.contact-card{
+    max-width:60rem;
+    margin:0 auto;
+    background:var(--second-bg-color);
+    padding:4rem;
+    border-radius:2rem;
+    text-align:center;
+    box-shadow:0 0 2rem rgba(0,171,240,0.3);
+}
+
+.contact-card p{
+    font-size:1.8rem;
+    line-height:1.7;
+    margin-bottom:3rem;
+}
